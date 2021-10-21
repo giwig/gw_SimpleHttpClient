@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "gw_SimpleHTTPClient",
+	"Description": "GiWiG's Simple HTTP(S) +JWT Client",
+	"Category": "Other",
+	"CreatedBy": "giwig",
+	"CreatedByURL": "https://ilyahartmann.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "gw_SimpleHTTPClient",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
